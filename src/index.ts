@@ -1,3 +1,4 @@
+export * from './awscdk-pipeline-app';
 export * from './awscdk-app-ts';
 export * from './awscdk-construct';
 export * from './cdk8s-construct';
